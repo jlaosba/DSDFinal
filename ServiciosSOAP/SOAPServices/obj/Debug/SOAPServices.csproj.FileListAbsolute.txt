@@ -1,0 +1,16 @@
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\SOAPServices.dll.config
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\SOAPServices.dll
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\SOAPServices.pdb
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\Iesi.Collections.dll
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\NHibernate.dll
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.dll
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.pdb
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.csprojResolveAssemblyReference.cache
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto_Final_Servicios\ProyectoDSD\SOAPServices\bin\SOAPServices.dll.config
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto_Final_Servicios\ProyectoDSD\SOAPServices\bin\SOAPServices.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto_Final_Servicios\ProyectoDSD\SOAPServices\bin\SOAPServices.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto_Final_Servicios\ProyectoDSD\SOAPServices\bin\Iesi.Collections.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto_Final_Servicios\ProyectoDSD\SOAPServices\bin\NHibernate.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto_Final_Servicios\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto_Final_Servicios\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto_Final_Servicios\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.csprojResolveAssemblyReference.cache

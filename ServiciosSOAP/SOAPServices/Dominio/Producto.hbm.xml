@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="SOAPServices"
+                   namespace="SOAPServices.Dominio"
+                   default-lazy="false">
+  <class name="Producto" table="Producto">
+    <id name="codProducto" column="cod_Producto">
+      <generator class="increment"/>
+    </id>
+    <property name="codCliente" column="cod_Cliente"/>
+    <property name="monto" column="Monto"/>
+    <property name="codTipoProducto" column="cod_TipoProducto"/>
+    <property name="tipoMoneda" column="Tipo_Moneda"/>
+    <property name="cuotas" column="Cuotas"/>
+    <property name="seguroDes" column="Seguro_Des"/>
+    <property name="seguroBien" column="Seguro_Bien"/>
+    <property name="fechaVenc" column="Fecha_Venc"/>
+    <property name="fechaRegistro" column="Fecha_Registro"/>
+    <property name="tasaInteres" column="Tasa_Interes"/>
+    <property name="montoPendiente" column="Monto_Pendiente"/>
+  </class>
+</hibernate-mapping>

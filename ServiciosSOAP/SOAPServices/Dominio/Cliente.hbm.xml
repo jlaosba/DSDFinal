@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="SOAPServices"
+                   namespace="SOAPServices.Dominio"
+                   default-lazy="false">
+  <!--<class name="Cliente" table="Tb_Clientes">-->
+  <class name="Cliente" table="Cliente">
+    <id name="CodCliente" column="cod_Cliente">
+      <!--<generator class="increment" />-->
+    </id>
+    <property name="Nombre" column="Nombre" />
+    <property name="ApePat" column="Ape_Pat" />
+    <property name="ApeMat" column="Ape_Mat" />
+    <property name="Direccion" column="Dirección" />
+    <property name="Telefono" column="Telefono" />
+    <property name="Correo" column="Correo" />
+    <property name="EstadoCivil" column="Estado_Civil" />
+    <property name="FechaNacimiento" column="Fecha_Nacimietno" />
+  </class>
+</hibernate-mapping>
