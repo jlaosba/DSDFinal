@@ -1,0 +1,24 @@
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.frmConfirmarSolicitud.resources
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.frmCliente.resources
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.frmListadoSolicitud.resources
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.frmSolicitud.resources
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Jorge\Desktop\MascotaService\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.exe
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\bin\Debug\Cliente.exe
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\bin\Debug\Cliente.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.frmConfirmarSolicitud.resources
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.frmCliente.resources
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.frmListadoSolicitud.resources
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.frmSolicitud.resources
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache

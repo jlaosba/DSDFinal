@@ -1,0 +1,17 @@
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\MensajesColas\MensajesColas\AplicacionServidor\bin\Debug\AplicacionServidor.exe.config
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\MensajesColas\MensajesColas\AplicacionServidor\bin\Debug\AplicacionServidor.exe
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\MensajesColas\MensajesColas\AplicacionServidor\bin\Debug\AplicacionServidor.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\MensajesColas\MensajesColas\AplicacionServidor\obj\Debug\AplicacionServidor.csprojResolveAssemblyReference.cache
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\MensajesColas\MensajesColas\AplicacionServidor\obj\Debug\AplicacionServidor.exe
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\MensajesColas\MensajesColas\AplicacionServidor\obj\Debug\AplicacionServidor.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Unidad 05\MensajesColas\AplicacionServidor\bin\Debug\AplicacionServidor.exe.config
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Unidad 05\MensajesColas\AplicacionServidor\bin\Debug\AplicacionServidor.exe
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Unidad 05\MensajesColas\AplicacionServidor\bin\Debug\AplicacionServidor.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Unidad 05\MensajesColas\AplicacionServidor\obj\Debug\AplicacionServidor.csprojResolveAssemblyReference.cache
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Unidad 05\MensajesColas\AplicacionServidor\obj\Debug\AplicacionServidor.exe
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Unidad 05\MensajesColas\AplicacionServidor\obj\Debug\AplicacionServidor.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\AplicacionServidor\obj\Debug\AplicacionServidor.exe
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\AplicacionServidor\bin\Debug\AplicacionServidor.exe.config
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\AplicacionServidor\bin\Debug\AplicacionServidor.exe
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\AplicacionServidor\bin\Debug\AplicacionServidor.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\Proyecto Desktop\AplicacionServidor\obj\Debug\AplicacionServidor.pdb
