@@ -1,0 +1,8 @@
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\RESTServices.dll.config
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\RESTServices.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\RESTServices.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\Iesi.Collections.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\NHibernate.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\obj\Debug\RESTServices.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\obj\Debug\RESTServices.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\obj\Debug\RESTServices.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\SOAPServices.dll.config
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\SOAPServices.dll
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\SOAPServices.pdb
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\Iesi.Collections.dll
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\bin\NHibernate.dll
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.dll
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.pdb
+C:\Users\EnriqueRaphael\Downloads\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.csprojResolveAssemblyReference.cache
+D:\DSD Proyectos\20151003\ProyectoDSD\SOAPServices\bin\SOAPServices.dll.config
+D:\DSD Proyectos\20151003\ProyectoDSD\SOAPServices\bin\SOAPServices.dll
+D:\DSD Proyectos\20151003\ProyectoDSD\SOAPServices\bin\SOAPServices.pdb
+D:\DSD Proyectos\20151003\ProyectoDSD\SOAPServices\bin\Iesi.Collections.dll
+D:\DSD Proyectos\20151003\ProyectoDSD\SOAPServices\bin\NHibernate.dll
+D:\DSD Proyectos\20151003\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.dll
+D:\DSD Proyectos\20151003\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\SOAPServices.dll.config
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\SOAPServices.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\SOAPServices.pdb
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\Iesi.Collections.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\bin\NHibernate.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.dll
+C:\Users\David\UPC\Ingeniería de Sistemas\Distribuidos\ProyectoDSD con listado por estado\ProyectoDSD\SOAPServices\obj\Debug\SOAPServices.pdb
